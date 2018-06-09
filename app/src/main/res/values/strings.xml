@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parently</string>
+    <string name="need_a_new_account">Need a new account?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="your_email">Your Email</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+    <string name="email_address">Email Address</string>
+    <string name="login_password">Password</string>
+</resources>
